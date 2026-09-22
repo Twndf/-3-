@@ -1,180 +1,108 @@
-1. Algebra — только нужное
+1) Intermediate Algebra — Professor Leonard
 
-Здесь можно вообще взять Professor Leonard Intermediate Algebra, потому что там отдельные лекции прямо под твои темы.
+Смотреть:
 
-Quadratics
-11.1 — Solving Quadratic Equations By Completing the Square
-11.2 — Solving Quadratic Equations with the Quadratic Formula
-11.3 — Solving Equations Using Various Quadratic Methods
-11.4 — Solving Non-Linear and Quadratic Inequalities
-11.5 — Sketching Graphs of Quadratic Functions
-11.6 — Graphing of Quadratics: Vertex, X-Intercept, Y-Intercept
-Roots / radicals
-10.1 — An Introduction to Radicals (Roots) and Radical Functions
-10.2 — Rational Exponents
-10.3 — Simplifying Radical Expressions
-10.4 — Adding, Subtracting, and Multiplying Radicals
-10.5 — Rationalization of Radical Expressions
-10.6 — Solving Radical Equations
-Functions / inverse
-12.1 — Operations and Composition of Functions
-12.2 — An Introduction to Inverse Functions
-Exp / Log
-12.3 — Graphing and Solving Exponential Functions
-12.4 — Introduction to Graphing and Solving Logarithmic Functions
-12.5 — Exploring the Properties of Logarithms
-12.6 — Studying Common and Natural Logarithms
-12.7 — Solving Exponential and Logarithmic Equations
+6.1
+6.2
+6.4
+6.5
+6.6
+6.7
+7.1–7.7
+8.1–8.4
+9.1–9.4
+10.1–10.6
+11.1–11.6
+12.1–12.7
+13.1–13.6
 
-Это уже довольно хороший точечный Algebra block, без просмотра всего курса.
+Не все номера подряд существуют — например, в 6-м разделе отсутствует 6.3, поэтому я его не добавляю. Это видно в фактическом syllabus курса.
 
-2. Functions — Precalculus
+2) Precalculus — Professor Leonard
+College Algebra
+2–15
+17–23
+24
+25–30
+31–34
+35–40
+41–51
+52–55
 
-Вот здесь список ещё удобнее.
+Из этого для OMPT особенно нужны 24 (quadratics), 41–51 (functions/inverses) и 52–55 (exponential/logarithmic). Например, №24 и №51 подтверждаются каталогом самого Professor Leonard.
 
-Functions
-2 — Introduction to Functions
-3 — How to Evaluate Functions
-4 — Finding the Domain of Functions
-5 — Operations of Functions
-7 — Features of Graphs, Domain, Range
-9 — Properties of Functions: Increasing vs Decreasing
-10 — Properties of Functions: Extrema
-11 — Average Rate of Change
-12 — How to Graph Piecewise Functions
-Transformations
-14 — Introduction to Graph Transformations
-15 — How to Graph with Transformations
-Quadratics
-16 — Introduction to Solving Quadratics
-17 — Square Root Method
-18 — Factoring
-19 — Completing the Square
-20 — Proving the Quadratic Formula
-21 — Using the Quadratic Formula
-Rational functions
+Trigonometry
+2–8
+9–16
+17–22
+23–29
+30–34
 
-Тут особенно полезно:
+То есть практически весь тригонометрический блок 2–34.
 
-42 — Finding End Behavior of Rational Functions
-43 — Finding Asymptotes and Holes of Rational Functions
-44 — Graphing Rational Functions
-45 — Inequalities with Functions
-46 — Inequalities with Polynomial Functions
-47 — Inequalities with Rational Functions
-Composition / inverse
-48 — Composition of Functions
-49 — Finding Domain of Composite Functions
-50 — One-to-One Functions
-51 — Finding Inverse Functions
-3. Exponential / Logarithms
+36–42 не смотреть — это уже polar coordinates.
 
-Из Precalculus:
+3) Calculus 1 — Professor Leonard
 
-52 — Graphs of Exponential Functions
-53 — Graphing Exponential Functions with Transformations
-54 — Solving Exponential Equations with Common Bases
-55 — Introduction to Logarithms and Their Graphs
+Вот здесь можно прямо по номерам:
 
-Дальше продолжай следующие лекции про свойства логарифмов и logarithmic equations.
-
-4. Trigonometry
-
-Тут я бы не заставлял тебя смотреть весь тригонометрический блок.
-
-Из Professor Leonard тебе нужны следующие типы лекций в его Precalculus:
-
-Unit Circle
-Radians
-Exact Values
-Graphs of Trigonometric Functions
-Trigonometric Identities
-Solving Trigonometric Equations
-Inverse Trigonometric Functions
-Law of Sines
-Law of Cosines
-
-У него всё это находится в той же Precalculus/College Algebra–Trigonometry серии.
-
-5. Geometry
-
-Здесь не надо брать отдельный полный Geometry курс.
-
-Тебе достаточно:
-
-Lines / slope
-Distance formula
-Circles
-Vectors
-Dot product
-Parametric equations
-
-Причём у Professor Leonard Calculus 1 уже первая лекция начинается с Lines, Angle of Inclination and Distance Formula, так что часть аналитической геометрии можно закрыть прямо там.
-
-6. Calculus I — Professor Leonard
-
-Вот здесь я бы уже шёл почти по его курсу, но не смотрел повторение того, что ты уже знаешь.
-
+0.1
+0.2
+0.3
+0.4
 Limits
-
-Ищи:
-
-1.1 — Introduction to Limits
-Limit Laws
-Techniques of Limit Computation
-Continuity
-Infinite Limits
-Limits at Infinity
-
-Его Calc I действительно идёт через limits → derivatives → applications → integrals.
-
+1.1
+1.2
+1.4
+1.5
 Derivatives
-
-Нужны:
-
-Definition of Derivative
-Basic Derivative Rules
-Product Rule
-Quotient Rule
-Chain Rule
-Implicit Differentiation
-Higher Derivatives
-Derivatives of Trig Functions
-Derivatives of \(e^x\) and \(\ln x\)
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
 Applications
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+Integration
+4.1
+4.2
+4.3
+4.4
+4.5
+Applications of integration
+5.1
+5.2
+5.3
 
-Особенно:
+5.4 не нужен для твоего OMPT-D маршрута.
 
-2.4 — Applications of the Derivative
-Increasing / decreasing
-First derivative test
-Second derivative test
-Concavity
-Inflection points
-Optimization
-Related rates
-Curve sketching
+Полный список номеров и названий здесь подтверждается каталогом курса.
 
-Лекция 2.4 у него действительно посвящена applications of the derivative.
+4) Calculus 2 — Professor Leonard
 
-7. Calculus II — только интеграционная часть
+Только то, что реально пригодится:
 
-Вот это тебе не надо смотреть весь Calc II.
-
-Professor Leonard Calc II включает ещё series, Taylor, polar, differential equations и т.д. — сейчас они тебе для OMPT-D не нужны.
-
-Тебе нужны:
-
+Log / inverse / exponential
+6.1
+6.2
+6.3
+6.4
+6.5
+6.7
 Integration techniques
-7.1 — Integration By Parts
-7.2 — Techniques For Trigonometric Integrals
-7.3 — Integrals By Trigonometric Substitution
-7.4 — Integration By Partial Fractions
-И из Calc I
-Definite integrals
-Fundamental Theorem of Calculus
-Area under curves
-Area between curves
-Volumes
-
-Professor Leonard Calc I прямо включает definite integrals, FTC, areas и volumes.
+7.1
+7.2
+7.3
+7.4
+Parametric
+10.2
+10.3
