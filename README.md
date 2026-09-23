@@ -49,7 +49,7 @@
 
 | №    | Ссылка                                                                                                                                               |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2–35 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| 4–35 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
 ### 4. Calculus 1
 
