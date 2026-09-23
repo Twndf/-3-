@@ -1,49 +1,42 @@
 ### 1. Intermediate Algebra
 
-| №    | Ссылка                                                                  |
-| ---- | ----------------------------------------------------------------------- |
-| 6.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 6.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 6.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 6.5  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 6.6  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 6.7  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.5  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.6  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 7.7  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 8.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 8.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 8.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 8.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 9.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 9.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 9.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 9.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 10.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 11.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 12.7 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 13.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
-| 13.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| №    | Ссылка                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 6.1  | [https://www.youtube.com/watch?v=0EnklHkVKXI](https://www.youtube.com/watch?v=0EnklHkVKXI) |
+| 6.2  | [https://www.youtube.com/watch?v=MhPyfvAxjEg](https://www.youtube.com/watch?v=MhPyfvAxjEg) |
+| 6.4  | [https://www.youtube.com/watch?v=HpFeF7nt5kM](https://www.youtube.com/watch?v=HpFeF7nt5kM) |
+| 6.5  | [https://www.youtube.com/watch?v=05qQkz8Wn-8](https://www.youtube.com/watch?v=05qQkz8Wn-8) |
+| 6.6  | [https://www.youtube.com/watch?v=cuyPbznFD9o](https://www.youtube.com/watch?v=cuyPbznFD9o) |
+| 6.7  | [https://www.youtube.com/watch?v=g_7D1Y-Los4](https://www.youtube.com/watch?v=g_7D1Y-Los4) |
+| 7.1  | [https://www.youtube.com/watch?v=eeU4gclPTYM](https://www.youtube.com/watch?v=eeU4gclPTYM) |
+| 7.2  | [https://www.youtube.com/watch?v=cAnB2bhjweA](https://www.youtube.com/watch?v=cAnB2bhjweA) |
+| 7.4  | [https://www.youtube.com/watch?v=kv3xoX4v2Yo](https://www.youtube.com/watch?v=kv3xoX4v2Yo) |
+| 7.5  | [https://www.youtube.com/watch?v=iHOl4Ia2r-g](https://www.youtube.com/watch?v=iHOl4Ia2r-g) |
+| 7.6  | [https://www.youtube.com/watch?v=EDehcnKjCjw](https://www.youtube.com/watch?v=EDehcnKjCjw) |
+| 7.7  | [https://www.youtube.com/watch?v=OGI4iGhJJIg](https://www.youtube.com/watch?v=OGI4iGhJJIg) |
+| 8.1  | [https://www.youtube.com/watch?v=jZ2TvAUR1x8](https://www.youtube.com/watch?v=jZ2TvAUR1x8) |
+| 8.2  | [https://www.youtube.com/watch?v=YdvdJvbCox4](https://www.youtube.com/watch?v=YdvdJvbCox4) |
+| 8.3  | [https://www.youtube.com/watch?v=QXFpq_uCZ28](https://www.youtube.com/watch?v=QXFpq_uCZ28) |
+| 8.4  | [https://www.youtube.com/watch?v=lRv1R-bELe4](https://www.youtube.com/watch?v=lRv1R-bELe4) |
+| 9.1  | [https://www.youtube.com/watch?v=9J919Jrpe3U](https://www.youtube.com/watch?v=9J919Jrpe3U) |
+| 9.3  | [https://www.youtube.com/watch?v=l0f-lewRAWM](https://www.youtube.com/watch?v=l0f-lewRAWM) |
+| 9.4  | [https://www.youtube.com/watch?v=NUeUCkL3isk](https://www.youtube.com/watch?v=NUeUCkL3isk) |
+| 10.1 | [https://www.youtube.com/watch?v=2PvgH1xMIRE](https://www.youtube.com/watch?v=2PvgH1xMIRE) |
+| 10.2 | [https://www.youtube.com/watch?v=p56S2R1a1GM](https://www.youtube.com/watch?v=p56S2R1a1GM) |
+| 10.3 | [https://www.youtube.com/watch?v=lNJKafA5wfk](https://www.youtube.com/watch?v=lNJKafA5wfk) |
+| 10.4 | [https://www.youtube.com/watch?v=nf1H3XUMCFQ](https://www.youtube.com/watch?v=nf1H3XUMCFQ) |
+| 10.5 | [https://www.youtube.com/watch?v=MUSxiAOfyLE](https://www.youtube.com/watch?v=MUSxiAOfyLE) |
+| 11.1 | [https://www.youtube.com/watch?v=LnqXd2iDFWk](https://www.youtube.com/watch?v=LnqXd2iDFWk) |
+| 11.3 | [https://www.youtube.com/watch?v=-o-FyFNpfPk](https://www.youtube.com/watch?v=-o-FyFNpfPk) |
+| 11.5 | [https://www.youtube.com/watch?v=1I0sbYmF0og](https://www.youtube.com/watch?v=1I0sbYmF0og) |
+| 12.1 | [https://www.youtube.com/watch?v=ThewV18ICAo](https://www.youtube.com/watch?v=ThewV18ICAo) |
+| 12.3 | [https://www.youtube.com/watch?v=latqIs3C8Go](https://www.youtube.com/watch?v=latqIs3C8Go) |
+| 12.4 | [https://www.youtube.com/watch?v=rHz75rGLzpI](https://www.youtube.com/watch?v=rHz75rGLzpI) |
+| 12.5 | [https://www.youtube.com/watch?v=ItKpQ32kS90](https://www.youtube.com/watch?v=ItKpQ32kS90) |
+| 12.6 | [https://www.youtube.com/watch?v=1TwM56XdCkU](https://www.youtube.com/watch?v=1TwM56XdCkU) |
+| 12.7 | [https://www.youtube.com/watch?v=zhjGOTAOvLE](https://www.youtube.com/watch?v=zhjGOTAOvLE) |
+| 13.1 | [https://www.youtube.com/watch?v=fxG7K802yLw](https://www.youtube.com/watch?v=fxG7K802yLw) |
+| 13.2 | [https://www.youtube.com/watch?v=5uYKxsJVOG4](https://www.youtube.com/watch?v=5uYKxsJVOG4) |
 
 ### 2. Precalculus — College Algebra
 
@@ -78,6 +71,3 @@
 | 6.7       | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
 | 7.1–7.4   | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
 | 10.2–10.3 | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
-
-**Покрытие: ~90% OMPT-D.**
-
