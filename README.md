@@ -1,148 +1,83 @@
-# OMPT-D — План подготовки
+### 1. Intermediate Algebra
 
-Ниже — структурированный список тем, которые реально нужны для подготовки к OMPT-D. Я привёл их в более читаемом и аккуратном виде, чтобы проще было проходить курс по разделам.
+| №    | Ссылка                                                                  |
+| ---- | ----------------------------------------------------------------------- |
+| 6.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 6.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 6.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 6.5  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 6.6  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 6.7  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.5  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.6  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 7.7  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 8.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 8.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 8.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 8.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 9.1  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 9.2  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 9.3  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 9.4  | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 10.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 11.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.3 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.4 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.5 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.6 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 12.7 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 13.1 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
+| 13.2 | [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)... |
 
----
+### 2. Precalculus — College Algebra
 
-## 1) Intermediate Algebra — Professor Leonard
+| №     | Ссылка                                                                                                                                               |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2–15  | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| 16–34 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| 38–66 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
-### Смотреть
+### 3. Precalculus — Trigonometry
 
-- 6.1
-- 6.2
-- 6.4
-- 6.5
-- 6.6
-- 6.7
-- 7.1–7.7
-- 8.1–8.4
-- 9.1–9.4
-- 10.1–10.6
-- 11.1–11.6
-- 12.1–12.7
-- 13.1–13.6
+| №    | Ссылка                                                                                                                                               |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2–35 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
-> Примечание: не все номера подряд существуют — например, в 6-м разделе отсутствует 6.3, поэтому его я не добавляю.
+### 4. Calculus 1
 
----
+| №       | Ссылка                                                                                                               |
+| ------- | -------------------------------------------------------------------------------------------------------------------- |
+| 0.1–0.4 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
+| 1.1–1.5 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
+| 2.1–2.8 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
+| 3.1–3.7 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
+| 4.1–4.5 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
+| 5.1–5.3 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
 
-## 2) Precalculus — Professor Leonard
+### 5. Calculus 2
 
-### College Algebra
+| №         | Ссылка                                                                                                                                               |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.1–6.5   | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
+| 6.7       | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
+| 7.1–7.4   | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
+| 10.2–10.3 | [https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) |
 
-- 2–15
-- 17–23
-- 24
-- 25–30
-- 31–34
-- 35–40
-- 41–51
-- 52–55
-
-> Особенно важны для OMPT: 24 (quadratics), 41–51 (functions/inverses) и 52–55 (exponential/logarithmic).
-
-### Trigonometry
-
-- 2–8
-- 9–16
-- 17–22
-- 23–29
-- 30–34
-
-> Практически весь тригонометрический блок 2–34 важен.
-
-> 36–42 не смотреть — это уже polar coordinates.
-
----
-
-## 3) Calculus 1 — Professor Leonard
-
-### Limits
-
-- 0.1
-- 0.2
-- 0.3
-- 0.4
-- 1.1
-- 1.2
-- 1.4
-- 1.5
-
-### Derivatives
-
-- 2.1
-- 2.2
-- 2.3
-- 2.4
-- 2.5
-- 2.6
-- 2.7
-- 2.8
-
-### Applications
-
-- 3.1
-- 3.2
-- 3.3
-- 3.4
-- 3.5
-- 3.6
-- 3.7
-
-### Integration
-
-- 4.1
-- 4.2
-- 4.3
-- 4.4
-- 4.5
-
-### Applications of integration
-
-- 5.1
-- 5.2
-- 5.3
-
-> 5.4 не нужен для OMPT-D маршрута.
-
----
-
-## 4) Calculus 2 — Professor Leonard
-
-### Только то, что реально пригодится
-
-#### Log / inverse / exponential
-
-- 6.1
-- 6.2
-- 6.3
-- 6.4
-- 6.5
-- 6.7
-
-#### Integration techniques
-
-- 7.1
-- 7.2
-- 7.3
-- 7.4
-
-#### Parametric
-
-- 10.2
-- 10.3
-
----
-
-## Краткая итоговая мысль
-
-Если идти строго по OMPT-D, то основной фокус — это:
-
-- алгебра и функции;
-- тригонометрия;
-- пределы и производные;
-- интегралы и их применения;
-- экспоненты, логарифмы и параметрические кривые.
-
-Это как раз тот набор тем, который обычно закрывает большую часть mock-сессии.
+**Покрытие: ~90% OMPT-D.**
 
