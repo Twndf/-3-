@@ -2,8 +2,8 @@
 
 | №    | Ссылка                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------ |
-| 6.1  |  |
-| 6.2  | [https://www.youtube.com/watch?v=MhPyfvAxjEg](https://www.youtube.com/watch?v=MhPyfvAxjEg) |
+| 6.1  | сделал |
+| 6.2  | сделал |
 | 6.4  | [https://www.youtube.com/watch?v=HpFeF7nt5kM](https://www.youtube.com/watch?v=HpFeF7nt5kM) |
 | 6.5  | [https://www.youtube.com/watch?v=05qQkz8Wn-8](https://www.youtube.com/watch?v=05qQkz8Wn-8) |
 | 6.6  | [https://www.youtube.com/watch?v=cuyPbznFD9o](https://www.youtube.com/watch?v=cuyPbznFD9o) |
