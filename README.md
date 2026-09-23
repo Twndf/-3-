@@ -5,7 +5,7 @@
 | 6.1  | сделал |
 | 6.2  | сделал |
 | 6.4  | сделал |
-| 6.5  | [https://www.youtube.com/watch?v=05qQkz8Wn-8](https://www.youtube.com/watch?v=05qQkz8Wn-8) |
+| 6.5  | сделал |
 | 6.6  | [https://www.youtube.com/watch?v=cuyPbznFD9o](https://www.youtube.com/watch?v=cuyPbznFD9o) |
 | 6.7  | [https://www.youtube.com/watch?v=g_7D1Y-Los4](https://www.youtube.com/watch?v=g_7D1Y-Los4) |
 | 7.1  | [https://www.youtube.com/watch?v=eeU4gclPTYM](https://www.youtube.com/watch?v=eeU4gclPTYM) |
