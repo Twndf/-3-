@@ -38,15 +38,14 @@
 | 13.1 | [https://www.youtube.com/watch?v=fxG7K802yLw](https://www.youtube.com/watch?v=fxG7K802yLw) |
 | 13.2 | [https://www.youtube.com/watch?v=5uYKxsJVOG4](https://www.youtube.com/watch?v=5uYKxsJVOG4) |
 
-### 2. Precalculus — College Algebra
+### 2. Precalculus — College Algebra/### 3. Precalculus — Trigonometry
 
 | №     | Ссылка                                                                                                                                               |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2–15  | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 | 16–34 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 | 38–66 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
-
-### 3. Precalculus — Trigonometry
+| 2–35  | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
 | №    | Ссылка                                                                                                                                               |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
