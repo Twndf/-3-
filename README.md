@@ -11,7 +11,7 @@
 | 7.1  | сделал |
 | 7.2  | сделал |
 | 7.4  | сделал |
-| 7.5  | [https://www.youtube.com/watch?v=iHOl4Ia2r-g](https://www.youtube.com/watch?v=iHOl4Ia2r-g) |
+| 7.5  | сделал |
 | 7.6  | [https://www.youtube.com/watch?v=EDehcnKjCjw](https://www.youtube.com/watch?v=EDehcnKjCjw) |
 | 7.7  | [https://www.youtube.com/watch?v=OGI4iGhJJIg](https://www.youtube.com/watch?v=OGI4iGhJJIg) |
 | 8.1  | [https://www.youtube.com/watch?v=jZ2TvAUR1x8](https://www.youtube.com/watch?v=jZ2TvAUR1x8) |
