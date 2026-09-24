@@ -38,7 +38,7 @@
 | 13.1 | [https://www.youtube.com/watch?v=fxG7K802yLw](https://www.youtube.com/watch?v=fxG7K802yLw) |
 | 13.2 | [https://www.youtube.com/watch?v=5uYKxsJVOG4](https://www.youtube.com/watch?v=5uYKxsJVOG4) |
 
-### 2. Precalculus — College Algebra/### 
+### 2. Precalculus — College Algebra
 
 | №     | Ссылка                                                                                                                                               |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
