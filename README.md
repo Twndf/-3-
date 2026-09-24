@@ -38,7 +38,7 @@
 | 13.1 | [https://www.youtube.com/watch?v=fxG7K802yLw](https://www.youtube.com/watch?v=fxG7K802yLw) |
 | 13.2 | [https://www.youtube.com/watch?v=5uYKxsJVOG4](https://www.youtube.com/watch?v=5uYKxsJVOG4) |
 
-### 2. Precalculus — College Algebra/### 3. Precalculus — Trigonometry
+### 2. Precalculus — College Algebra/### 
 
 | №     | Ссылка                                                                                                                                               |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,11 +47,7 @@
 | 38–66 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 | 2–35  | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
-| №    | Ссылка                                                                                                                                               |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4–35 | [https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
-
-### 4. Calculus 1
+### 3. Calculus 1
 
 | №       | Ссылка                                                                                                               |
 | ------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +58,7 @@
 | 4.1–4.5 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
 | 5.1–5.3 | [https://www.youtube.com/playlist?list=PLF797E961509B4EB5](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) |
 
-### 5. Calculus 2
+### 4. Calculus 2
 
 | №         | Ссылка                                                                                                                                               |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
